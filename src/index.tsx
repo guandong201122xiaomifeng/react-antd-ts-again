@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import Protal from './Protal'
 import reportWebVitals from './reportWebVitals';
-import B from './HOC/B'
+import B from './HOC/B.jsx'
 let app:any
 ReactDOM.render(
   <React.StrictMode>
